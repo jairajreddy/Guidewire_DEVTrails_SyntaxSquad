@@ -234,10 +234,10 @@ Frontend:
 - React.js  
 
 Backend:
-- Node.js / Spring Boot  
+- Spring Boot  
 
 Database:
-- MongoDB / MySQL  
+- MySQL  
 
 AI/ML:
 - Python (Scikit-learn)  
@@ -248,7 +248,10 @@ APIs:
 - News APIs  
 
 Payments:
-- Razorpay / UPI  
+- Razorpay UPI
+  
+Cloud
+- AWS
 
 ---
 
